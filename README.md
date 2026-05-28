@@ -38,12 +38,12 @@ graph TD
 
 | Unit | Title | Core Topics | Key Resources |
 | :--- | :--- | :--- | :--- |
-| **Unit 1** | **Business Environment** | Globalization, PESTLE, Legal systems, AI in IB | [Unit 1 Folder](file:///c:/LPU_Study/MGN-220/unit-1-international-business-environment/) \| [Intro Notes](file:///c:/LPU_Study/MGN-220/unit-1-international-business-environment/01-introduction.md) |
-| **Unit 2** | **International Trade** | Mercantilism, Comparative Advantage, WTO, EU | [Unit 2 Folder](file:///c:/LPU_Study/MGN-220/unit-2-international-trade/) \| [Theories Overview](file:///c:/LPU_Study/MGN-220/unit-2-international-trade/02-international-trade-theory.md) |
-| **Unit 3** | **Global Monetary System** | Foreign Exchange (Forex), IMF, World Bank, ADB | [Unit 3 Folder](file:///c:/LPU_Study/MGN-220/unit-3-global-monetary-system/) \| [Forex Notes](file:///c:/LPU_Study/MGN-220/unit-3-global-monetary-system/02-foreign-exchange-market.md) |
-| **Unit 4** | **Strategy & Structure** | Integration-Responsiveness, Entry Modes, Alliances | [Unit 4 Folder](file:///c:/LPU_Study/MGN-220/unit-4-strategy-and-structure/) \| [Entry Strategy](file:///c:/LPU_Study/MGN-220/unit-4-strategy-and-structure/03-entry-strategy.md) |
-| **Unit 5** | **Business Operations** | Exporting, Letter of Credit, Outsourcing, Sourcing | [Unit 5 Folder](file:///c:/LPU_Study/MGN-220/unit-5-international-business-operations/) \| [Global Production](file:///c:/LPU_Study/MGN-220/unit-5-international-business-operations/05-global-production.md) |
-| **Unit 6** | **Marketing & GHRM** | 4Ps Adaptation, R&D, Staffing (Ethno/Poly/Geo) | [Unit 6 Folder](file:///c:/LPU_Study/MGN-220/unit-6-global-marketing-and-hrm/) \| [GHRM Notes](file:///c:/LPU_Study/MGN-220/unit-6-global-marketing-and-hrm/04-global-human-resource-management.md) |
+| **Unit 1** | **Business Environment** | Globalization, PESTLE, Legal systems, AI in IB | [Unit 1 Folder](file:///c:/LPU_Study/MGN-220/unit-1-international-business-environment/) \| [Detailed Notes](file:///c:/LPU_Study/MGN-220/unit-1-international-business-environment/01-detailed-notes.md) |
+| **Unit 2** | **International Trade** | Mercantilism, Comparative Advantage, WTO, EU | [Unit 2 Folder](file:///c:/LPU_Study/MGN-220/unit-2-international-trade/) \| [Detailed Notes](file:///c:/LPU_Study/MGN-220/unit-2-international-trade/01-detailed-notes.md) |
+| **Unit 3** | **Global Monetary System** | Foreign Exchange (Forex), IMF, World Bank, ADB | [Unit 3 Folder](file:///c:/LPU_Study/MGN-220/unit-3-global-monetary-system/) \| [Detailed Notes](file:///c:/LPU_Study/MGN-220/unit-3-global-monetary-system/01-detailed-notes.md) |
+| **Unit 4** | **Strategy & Structure** | Integration-Responsiveness, Entry Modes, Alliances | [Unit 4 Folder](file:///c:/LPU_Study/MGN-220/unit-4-strategy-and-structure/) \| [Detailed Notes](file:///c:/LPU_Study/MGN-220/unit-4-strategy-and-structure/01-detailed-notes.md) |
+| **Unit 5** | **Business Operations** | Exporting, Letter of Credit, Outsourcing, Sourcing | [Unit 5 Folder](file:///c:/LPU_Study/MGN-220/unit-5-international-business-operations/) \| [Detailed Notes](file:///c:/LPU_Study/MGN-220/unit-5-international-business-operations/01-detailed-notes.md) |
+| **Unit 6** | **Marketing & GHRM** | 4Ps Adaptation, R&D, Staffing (Ethno/Poly/Geo) | [Unit 6 Folder](file:///c:/LPU_Study/MGN-220/unit-6-global-marketing-and-hrm/) \| [Detailed Notes](file:///c:/LPU_Study/MGN-220/unit-6-global-marketing-and-hrm/01-detailed-notes.md) |
 
 ---
 
