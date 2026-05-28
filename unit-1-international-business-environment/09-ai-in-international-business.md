@@ -1,33 +1,9 @@
 # Unit 1 — AI Applications in International Business
 
-## 1. Introduction
-This chapter covers details on **AI Applications in International Business** in the context of the international business environment.
+## 1. Core Applications
+AI increases operational efficiency, enables real-time language translations for contracts, and automates supply chains.
 
-## 2. Conceptual Overview
-Detailed understanding of how AI Applications in International Business affects multinational strategies and operational layouts.
-
-## 3. Core Characteristics & Dimensions
-- High volatility and rapid structural changes.
-- Complex interdependence across regulatory framework boundaries.
-
-## 4. Real-World Business Case
-- **Apple Inc.**: Global supply chain optimization leveraging cost efficiencies in different countries.
-- **Tesla**: Developing local manufacturing hubs (Gigafactories) in Berlin and Shanghai to adapt to regional parameters.
-
-## 5. Visual Representation
-```mermaid
-graph TD
-    A[Global Drivers] --> B(AI Applications in International Business)
-    B --> C[Market Opportunity]
-    B --> D[Regulatory Constraint]
-```
-
-## 6. Exam Prep & Top Questions
-- **Short Question (2 Marks)**: Explain the core definition of AI Applications in International Business.
-- **Long Question (10 Marks)**: Critically analyze how AI Applications in International Business impacts local industries.
-
-## 7. MCQs
-1. Which factor is a key driver of AI Applications in International Business?
-   - [x] Technological advancement
-   - [ ] Domestic focus
-   - [ ] Strict isolationism
+## 2. Solved Scenario-Based Question
+> **Scenario**: *A global retailer suffers from supply chain stockouts during holiday seasons due to unexpected cargo delays.*
+> **Question**: How can AI predict and mitigate these delays?
+> **Answer**: AI algorithms analyze historical port congestion, weather patterns, and shipping telemetry to predict disruptions, automatically re-routing cargo or adjusting safety stock levels in regional warehouses.

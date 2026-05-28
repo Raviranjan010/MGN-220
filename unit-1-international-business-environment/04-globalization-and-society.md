@@ -1,33 +1,9 @@
 # Unit 1 — Globalization and Society
 
-## 1. Introduction
-This chapter covers details on **Globalization and Society** in the context of the international business environment.
+## 1. Core Concepts
+Globalization affects social structures, income distributions, and cultural values. It can lead to cultural homogenization (standardization) or polarization.
 
-## 2. Conceptual Overview
-Detailed understanding of how Globalization and Society affects multinational strategies and operational layouts.
-
-## 3. Core Characteristics & Dimensions
-- High volatility and rapid structural changes.
-- Complex interdependence across regulatory framework boundaries.
-
-## 4. Real-World Business Case
-- **Apple Inc.**: Global supply chain optimization leveraging cost efficiencies in different countries.
-- **Tesla**: Developing local manufacturing hubs (Gigafactories) in Berlin and Shanghai to adapt to regional parameters.
-
-## 5. Visual Representation
-```mermaid
-graph TD
-    A[Global Drivers] --> B(Globalization and Society)
-    B --> C[Market Opportunity]
-    B --> D[Regulatory Constraint]
-```
-
-## 6. Exam Prep & Top Questions
-- **Short Question (2 Marks)**: Explain the core definition of Globalization and Society.
-- **Long Question (10 Marks)**: Critically analyze how Globalization and Society impacts local industries.
-
-## 7. MCQs
-1. Which factor is a key driver of Globalization and Society?
-   - [x] Technological advancement
-   - [ ] Domestic focus
-   - [ ] Strict isolationism
+## 2. Solved Scenario-Based Question
+> **Scenario**: *A US-based fast-fashion retailer launches in India, promoting Western-style clothing during traditional Indian festivals, causing local weavers' unions to protest.*
+> **Question**: Analyze the ethical and social impacts and recommend a mitigation strategy.
+> **Answer**: The firm faces a **social/cultural clash**. It should adopt a glocalization strategy: collaborate with local artisans to launch a fusion wear collection (Indo-Western) for festivals, supporting local weaving communities and improving social goodwill.

@@ -1,33 +1,9 @@
 # Unit 1 — Economic Environment
 
-## 1. Introduction
-This chapter covers details on **Economic Environment** in the context of the international business environment.
+## 1. Concepts
+Firms analyze economic systems (Market, Command, Mixed) and indicators (inflation, GDP, balance of payments).
 
-## 2. Conceptual Overview
-Detailed understanding of how Economic Environment affects multinational strategies and operational layouts.
-
-## 3. Core Characteristics & Dimensions
-- High volatility and rapid structural changes.
-- Complex interdependence across regulatory framework boundaries.
-
-## 4. Real-World Business Case
-- **Apple Inc.**: Global supply chain optimization leveraging cost efficiencies in different countries.
-- **Tesla**: Developing local manufacturing hubs (Gigafactories) in Berlin and Shanghai to adapt to regional parameters.
-
-## 5. Visual Representation
-```mermaid
-graph TD
-    A[Global Drivers] --> B(Economic Environment)
-    B --> C[Market Opportunity]
-    B --> D[Regulatory Constraint]
-```
-
-## 6. Exam Prep & Top Questions
-- **Short Question (2 Marks)**: Explain the core definition of Economic Environment.
-- **Long Question (10 Marks)**: Critically analyze how Economic Environment impacts local industries.
-
-## 7. MCQs
-1. Which factor is a key driver of Economic Environment?
-   - [x] Technological advancement
-   - [ ] Domestic focus
-   - [ ] Strict isolationism
+## 2. Solved Scenario-Based Question
+> **Scenario**: *A consumer durables MNC is entering Venezuela, which is experiencing hyperinflation and currency depreciation.*
+> **Question**: What pricing and operational adjustments should the firm make?
+> **Answer**: Use **inflation-indexed pricing**, keep cash reserves in stable foreign currencies (USD/Euros), source raw materials locally to avoid import-currency exposure, and consider barter/countertrade.

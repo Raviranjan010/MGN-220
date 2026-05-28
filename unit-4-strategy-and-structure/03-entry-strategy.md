@@ -1,26 +1,9 @@
-# Unit 4 — Market Entry Strategies
+# Unit 4 — Entry Strategy
 
-## 1. Introduction
-Understanding **Market Entry Strategies** and how global integration vs local responsiveness pressure shapes organizational architecture.
+## 1. Concepts
+Entry modes: Exporting, Turnkey, Licensing, Franchising, Joint Ventures, Wholly Owned Subsidiaries (Greenfield vs Acquisition).
 
-## 2. Strategic Choices
-- Localization Strategy.
-- Global Standardization Strategy.
-- Transnational Strategy.
-- International Strategy.
-
-## 3. Entry Strategies
-- Exporting, Licensing, Franchising.
-- Joint Ventures and Wholly Owned Subsidiaries.
-
-## 4. Visual Diagram
-```mermaid
-graph TD
-    A[MNC Strategy] --> B[Global Product Division]
-    A --> C[Worldwide Area Division]
-    A --> D[Global Matrix Structure]
-```
-
-## 5. Exam prep
-- **Short Question (2 Marks)**: What is a Transnational strategy?
-- **Long Question (10 Marks)**: Critically analyze vertical and horizontal differentiation in MNC structural configurations.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *A pharmaceutical company has developed a breakthrough cancer drug. It wants to enter the US market but has zero local distribution network.*
+> **Question**: Recommend an entry mode.
+> **Answer**: Use **Acquisition** of a local mid-sized US distributor to gain immediate market access, or a **Strategic Alliance/Joint Venture** with an established US firm to leverage their sales force while keeping core drug formula IP protected.

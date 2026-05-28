@@ -1,26 +1,9 @@
-# Unit 4 — Organizational Structure of MNCs
+# Unit 4 — Organization Structure
 
-## 1. Introduction
-Understanding **Organizational Structure of MNCs** and how global integration vs local responsiveness pressure shapes organizational architecture.
+## 1. Concepts
+Vertical differentiation (centralization vs decentralization), horizontal differentiation (worldwide area, product division, matrix).
 
-## 2. Strategic Choices
-- Localization Strategy.
-- Global Standardization Strategy.
-- Transnational Strategy.
-- International Strategy.
-
-## 3. Entry Strategies
-- Exporting, Licensing, Franchising.
-- Joint Ventures and Wholly Owned Subsidiaries.
-
-## 4. Visual Diagram
-```mermaid
-graph TD
-    A[MNC Strategy] --> B[Global Product Division]
-    A --> C[Worldwide Area Division]
-    A --> D[Global Matrix Structure]
-```
-
-## 5. Exam prep
-- **Short Question (2 Marks)**: What is a Transnational strategy?
-- **Long Question (10 Marks)**: Critically analyze vertical and horizontal differentiation in MNC structural configurations.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *An MNC has diverse product lines (electronics, apparel, chemicals). The divisions operate independently.*
+> **Question**: Suggest an organizational structure.
+> **Answer**: A **Worldwide Product Division Structure** is ideal, allowing each product division to manage its own global operations, R&D, and marketing, keeping them responsive to product-specific market trends.

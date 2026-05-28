@@ -1,33 +1,23 @@
-# Unit 1 — International Business Environment (PESTLE)
+# Unit 1 — International Business Environment (PESTLE Analysis)
 
 ## 1. Introduction
-This chapter covers details on **International Business Environment (PESTLE)** in the context of the international business environment.
+The International Business Environment consists of all external forces that influence a firm's cross-border decisions. It is evaluated using the **PESTLE** framework (Political, Economic, Social, Technological, Legal, Environmental).
 
-## 2. Conceptual Overview
-Detailed understanding of how International Business Environment (PESTLE) affects multinational strategies and operational layouts.
+## 2. PESTLE Framework Components
+- **Political**: Stability of government, tax policies, trade barriers.
+- **Economic**: Exchange rates, inflation, interest rates, economic growth.
+- **Social**: Demographics, cultural norms, work ethics, religious beliefs.
+- **Technological**: AI adoption, internet penetration, R&D infrastructure.
+- **Legal**: Labor laws, IP protection, contract enforcement.
+- **Environmental**: Climate change regulations, carbon footprint targets.
 
-## 3. Core Characteristics & Dimensions
-- High volatility and rapid structural changes.
-- Complex interdependence across regulatory framework boundaries.
-
-## 4. Real-World Business Case
-- **Apple Inc.**: Global supply chain optimization leveraging cost efficiencies in different countries.
-- **Tesla**: Developing local manufacturing hubs (Gigafactories) in Berlin and Shanghai to adapt to regional parameters.
-
-## 5. Visual Representation
-```mermaid
-graph TD
-    A[Global Drivers] --> B(International Business Environment (PESTLE))
-    B --> C[Market Opportunity]
-    B --> D[Regulatory Constraint]
-```
-
-## 6. Exam Prep & Top Questions
-- **Short Question (2 Marks)**: Explain the core definition of International Business Environment (PESTLE).
-- **Long Question (10 Marks)**: Critically analyze how International Business Environment (PESTLE) impacts local industries.
-
-## 7. MCQs
-1. Which factor is a key driver of International Business Environment (PESTLE)?
-   - [x] Technological advancement
-   - [ ] Domestic focus
-   - [ ] Strict isolationism
+## 3. Solved Scenario-Based Question (LPU Exam Style)
+> **Scenario**: *Veda Organics, a premium Indian herbal cosmetics brand, wants to expand into Germany. German consumers are highly environmentally conscious and demand certified organic ingredients and recyclable glass packaging.*
+> 
+> **Question**: Apply the PESTLE framework to analyze the challenges Veda Organics might face and how they should adapt their business strategy. (10 Marks)
+> 
+> **Topper's Answer**:
+> - **Social Environment**: Germany has high environmental awareness. *Adaptation*: Label certified organic ingredients clearly.
+> - **Legal Environment**: Strict EU regulations on cosmetics testing and packaging waste (Green Dot system). *Adaptation*: Ensure full compliance with European Cosmetics Regulation.
+> - **Economic Environment**: High purchasing power but competitive market. *Adaptation*: Position as a premium luxury organic brand.
+> - **Conclusion**: Success requires heavy adaptation of the product packaging (Environmental/Legal) and marketing messaging (Social) rather than using a standardized Indian approach.

@@ -1,25 +1,9 @@
 # Unit 5 — Countertrade Modes
 
-## 1. Introduction
-Focusing on **Countertrade Modes** and the operational aspects of supply chain, manufacturing, and transport logistics.
+## 1. Concepts
+Trade without cash: Barter, Counterpurchase, Offset, Switch Trading, Buyback.
 
-## 2. Core Operational Principles
-- Export-Import Documentation (Bill of Lading, Letter of Credit).
-- Countertrade types (Barter, Counterpurchase, Buyback).
-- Sourcing decisions (Make-or-buy).
-
-## 3. Real-World Case
-- **Amazon Global Logistics**: Tech-driven inventory and ocean cargo tracking.
-- **Apple Global Sourcing**: Outsourcing assembly to Foxconn in China, manufacturing components globally.
-
-## 4. Visual Diagram
-```mermaid
-graph LR
-    A[Importer] -->|1. Letter of Credit| B[Issuing Bank]
-    B -->|2. Advise L/C| C[Exporter Bank]
-    C -->|3. Ship Goods| A
-```
-
-## 5. Exam prep
-- **Short Question (2 Marks)**: Explain the role of a Bill of Lading.
-- **Long Question (10 Marks)**: Discuss the different forms of countertrade and why firms use them.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *An Indian defense manufacturer sells helicopters to a country lacking foreign exchange. The buyer country offers crude oil instead of cash.*
+> **Question**: Identify this mode and its benefits.
+> **Answer**: This is **Barter** (or counterpurchase if separate transactions are used). Benefit: Facilitates trade when currency conversion is restricted or foreign reserves are low.

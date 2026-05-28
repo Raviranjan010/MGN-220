@@ -1,26 +1,9 @@
 # Unit 4 — Strategy of International Business
 
-## 1. Introduction
-Understanding **Strategy of International Business** and how global integration vs local responsiveness pressure shapes organizational architecture.
+## 1. Concepts
+Pressures for cost reduction vs local responsiveness determine strategic choices: Global Standardization, Localization, Transnational, and International.
 
-## 2. Strategic Choices
-- Localization Strategy.
-- Global Standardization Strategy.
-- Transnational Strategy.
-- International Strategy.
-
-## 3. Entry Strategies
-- Exporting, Licensing, Franchising.
-- Joint Ventures and Wholly Owned Subsidiaries.
-
-## 4. Visual Diagram
-```mermaid
-graph TD
-    A[MNC Strategy] --> B[Global Product Division]
-    A --> C[Worldwide Area Division]
-    A --> D[Global Matrix Structure]
-```
-
-## 5. Exam prep
-- **Short Question (2 Marks)**: What is a Transnational strategy?
-- **Long Question (10 Marks)**: Critically analyze vertical and horizontal differentiation in MNC structural configurations.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *A consumer electronics company sells products worldwide. It faces strong competition on price but consumers require standard technical specifications (e.g., memory chips).*
+> **Question**: Identify the ideal strategy.
+> **Answer**: The firm faces high pressure for cost reduction and low pressure for local responsiveness. It should use a **Global Standardization Strategy**, concentrating manufacturing in low-cost hubs and selling standardized products.

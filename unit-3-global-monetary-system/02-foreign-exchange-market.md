@@ -1,24 +1,9 @@
-# Unit 3 — Foreign Exchange Market (Forex)
+# Unit 3 — The Foreign Exchange Market (Forex)
 
-## 1. Introduction
-Examining **Foreign Exchange Market (Forex)** and its position in stabilizing the global monetary and financial framework.
+## 1. Concepts
+Forex market facilitates currency conversion and hedging.
 
-## 2. Key Mechanisms & Forex Principles
-- Understanding hedging, arbitrage, and speculation.
-- Floating vs Fixed exchange rate structures.
-
-## 3. Real-World Case
-- **1997 Asian Financial Crisis**: How speculative attacks led to IMF bailouts.
-- **World Bank Projects**: Funding infrastructure developments in developing economies.
-
-## 4. Visual Diagram
-```mermaid
-graph TD
-    A[Foreign Exchange Market] --> B[Spot Market]
-    A --> C[Forward Market]
-    A --> D[Options & Futures]
-```
-
-## 5. Exam prep
-- **Short Question (2 Marks)**: Define Currency Arbitrage.
-- **Long Question (10 Marks)**: Compare and contrast the roles of the IMF and the World Bank.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *An Indian exporter expects to receive $100,000 in 3 months. The current spot rate is 83 INR/USD. The exporter fears the USD will depreciate to 80 INR/USD.*
+> **Question**: How can the exporter mitigate this currency risk?
+> **Answer**: The exporter should enter into a **3-Month Forward Contract** with their bank to sell USD at a locked-in rate (e.g., 82.8 INR/USD). This eliminates currency volatility risk.

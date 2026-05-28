@@ -1,2 +1,2 @@
-# Full Syllabus Revision
-Comprehensive revision notes covering all 6 units in under 50 pages.
+# Full Syllabus Quick Revision
+Summary checklist covering all Units 1-6. Match syllabus topics to CO1-CO5 to cross-check preparation.

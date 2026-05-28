@@ -1,2 +1,4 @@
-# Expected Questions
-Most expected questions for the upcoming End-Term exam.
+# Expected Questions for Upcoming Exam
+- Opportunity Cost Numerical problems
+- Detailed breakdown of Letter of Credit flow
+- Hofstede's Cultural Dimension applications

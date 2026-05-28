@@ -1,33 +1,9 @@
 # Unit 1 — Technological Environment
 
-## 1. Introduction
-This chapter covers details on **Technological Environment** in the context of the international business environment.
+## 1. Concepts
+Technology drives digital trade, global supply chain tracking, and communication.
 
-## 2. Conceptual Overview
-Detailed understanding of how Technological Environment affects multinational strategies and operational layouts.
-
-## 3. Core Characteristics & Dimensions
-- High volatility and rapid structural changes.
-- Complex interdependence across regulatory framework boundaries.
-
-## 4. Real-World Business Case
-- **Apple Inc.**: Global supply chain optimization leveraging cost efficiencies in different countries.
-- **Tesla**: Developing local manufacturing hubs (Gigafactories) in Berlin and Shanghai to adapt to regional parameters.
-
-## 5. Visual Representation
-```mermaid
-graph TD
-    A[Global Drivers] --> B(Technological Environment)
-    B --> C[Market Opportunity]
-    B --> D[Regulatory Constraint]
-```
-
-## 6. Exam Prep & Top Questions
-- **Short Question (2 Marks)**: Explain the core definition of Technological Environment.
-- **Long Question (10 Marks)**: Critically analyze how Technological Environment impacts local industries.
-
-## 7. MCQs
-1. Which factor is a key driver of Technological Environment?
-   - [x] Technological advancement
-   - [ ] Domestic focus
-   - [ ] Strict isolationism
+## 2. Solved Scenario-Based Question
+> **Scenario**: *A traditional logistics firm in India is losing international shipping clients to tech-driven foreign competitors.*
+> **Question**: How can the firm leverage technology to regain competitiveness?
+> **Answer**: Implement **IoT-based cargo tracking**, blockchain-based digital Bill of Lading, and automated custom documentation platforms to reduce clearing delays and improve transparency.

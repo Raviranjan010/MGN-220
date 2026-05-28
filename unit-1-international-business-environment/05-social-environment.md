@@ -1,33 +1,9 @@
-# Unit 1 — Social Environment
+# Unit 1 — Social Environment and Cultural Dynamics
 
-## 1. Introduction
-This chapter covers details on **Social Environment** in the context of the international business environment.
+## 1. Concepts
+Culture comprises language, religion, values, attitudes, customs, and social structures. Hofstede's Cultural Dimensions (Power Distance, Individualism, Masculinity, Uncertainty Avoidance, Long-term Orientation) help firms analyze social environments.
 
-## 2. Conceptual Overview
-Detailed understanding of how Social Environment affects multinational strategies and operational layouts.
-
-## 3. Core Characteristics & Dimensions
-- High volatility and rapid structural changes.
-- Complex interdependence across regulatory framework boundaries.
-
-## 4. Real-World Business Case
-- **Apple Inc.**: Global supply chain optimization leveraging cost efficiencies in different countries.
-- **Tesla**: Developing local manufacturing hubs (Gigafactories) in Berlin and Shanghai to adapt to regional parameters.
-
-## 5. Visual Representation
-```mermaid
-graph TD
-    A[Global Drivers] --> B(Social Environment)
-    B --> C[Market Opportunity]
-    B --> D[Regulatory Constraint]
-```
-
-## 6. Exam Prep & Top Questions
-- **Short Question (2 Marks)**: Explain the core definition of Social Environment.
-- **Long Question (10 Marks)**: Critically analyze how Social Environment impacts local industries.
-
-## 7. MCQs
-1. Which factor is a key driver of Social Environment?
-   - [x] Technological advancement
-   - [ ] Domestic focus
-   - [ ] Strict isolationism
+## 2. Solved Scenario-Based Question
+> **Scenario**: *An American manager is sent to Japan to lead a team. He rewards the top performer publicly, but the team's productivity drops significantly.*
+> **Question**: Explain this failure using Hofstede's framework.
+> **Answer**: Japan is a highly **collectivist society** (low Individualism), where harmony and group achievements are valued over individual recognition. Publicly singling out one employee caused embarrassment (loss of face) for the individual and group. The manager should have rewarded the team collectively.

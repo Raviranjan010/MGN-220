@@ -1,25 +1,9 @@
-# Unit 5 — Global Outsourcing & Make-or-Buy
+# Unit 5 — Outsourcing & Make-or-Buy Decisions
 
-## 1. Introduction
-Focusing on **Global Outsourcing & Make-or-Buy** and the operational aspects of supply chain, manufacturing, and transport logistics.
+## 1. Concepts
+Deciding whether to perform a value creation activity in-house (make) or contract it to an outside supplier (buy).
 
-## 2. Core Operational Principles
-- Export-Import Documentation (Bill of Lading, Letter of Credit).
-- Countertrade types (Barter, Counterpurchase, Buyback).
-- Sourcing decisions (Make-or-buy).
-
-## 3. Real-World Case
-- **Amazon Global Logistics**: Tech-driven inventory and ocean cargo tracking.
-- **Apple Global Sourcing**: Outsourcing assembly to Foxconn in China, manufacturing components globally.
-
-## 4. Visual Diagram
-```mermaid
-graph LR
-    A[Importer] -->|1. Letter of Credit| B[Issuing Bank]
-    B -->|2. Advise L/C| C[Exporter Bank]
-    C -->|3. Ship Goods| A
-```
-
-## 5. Exam prep
-- **Short Question (2 Marks)**: Explain the role of a Bill of Lading.
-- **Long Question (10 Marks)**: Discuss the different forms of countertrade and why firms use them.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *An EV manufacturer is debating whether to make its own battery packs or source them from Panasonic.*
+> **Question**: Apply the make-or-buy framework.
+> **Answer**: **Make**: If battery tech is a core competitive advantage and requires proprietary IP. **Buy**: If Panasonic has economies of scale, lowering unit cost, and if EV company wants to reduce capital investment risk.

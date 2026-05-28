@@ -1,26 +1,9 @@
 # Unit 6 — Global R&D and Innovation
 
-## 1. Introduction
-Exploring **Global R&D and Innovation** and the integration of marketing, R&D, and staffing policies (Ethnocentric, Polycentric, Geocentric).
+## 1. Concepts
+Locating R&D centers globally to capture regional scientific talent and customer insights.
 
-## 2. Marketing Mix in International Context
-- Product Standardization vs Adaptation.
-- Pricing policies (dumping, skimming, penetration).
-- Place (distribution channels) and Promotion strategies.
-
-## 3. Global HRM Staffing Policies
-- Ethnocentric: Parent-country nationals run foreign subsidiaries.
-- Polycentric: Host-country nationals run local subsidiaries.
-- Geocentric: Best people for the job regardless of nationality.
-
-## 4. Visual Diagram
-```mermaid
-graph TD
-    A[Staffing Policies] --> B[Ethnocentric]
-    A --> C[Polycentric]
-    A --> D[Geocentric]
-```
-
-## 5. Exam prep
-- **Short Question (2 Marks)**: What is Expatriate Failure?
-- **Long Question (10 Marks)**: Critically analyze the advantages and disadvantages of Ethnocentric, Polycentric, and Geocentric staffing policies.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *A major pharmaceutical firm operates R&D centers only in Switzerland, missing out on rapid digital health breakthroughs in Silicon Valley.*
+> **Question**: How can the firm restructure its R&D strategy?
+> **Answer**: Establish a satellite R&D center or incubator in Silicon Valley to tap into local software and AI talent, utilizing a global collaborative network for joint product development.

@@ -1,25 +1,9 @@
-# Unit 2 — Comparative Advantage Theory (David Ricardo)
+# Unit 2 — Theory of Comparative Advantage
 
-## 1. Introduction
-Detailing **Comparative Advantage Theory (David Ricardo)** as a major building block of international trade theory and regional systems.
+## 1. Concepts
+Proposed by David Ricardo, a country should specialize in producing goods where it has the lowest opportunity cost, even if it is less efficient in both goods than another country.
 
-## 2. Core Concepts & Analogies
-- Practical explanations and mathematical examples (e.g. opportunity costs in comparative advantage).
-- Step-by-step processes of how regional integration moves from Free Trade Areas to Political Union.
-
-## 3. Real-World Business Cases
-- **US-China Trade Relations**: Strategic application of modern tariff regimes.
-- **UK Brexit**: The costs and benefits of disintegration from a common market.
-
-## 4. Visual Diagram
-```mermaid
-graph LR
-    A[Free Trade Area] --> B[Customs Union]
-    B --> C[Common Market]
-    C --> D[Economic Union]
-    D --> E[Political Union]
-```
-
-## 5. Exam-Oriented Section
-- **Question (10 Marks)**: Critically evaluate David Ricardo's Theory of Comparative Advantage. Show opportunity cost calculations.
-- **Short Question (2 Marks)**: State the major difference between a Customs Union and a Common Market.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *Country X is highly efficient in both software and textiles. Country Y is inefficient in both but relatively less inefficient in textiles.*
+> **Question**: Show how trade benefits both using comparative advantage.
+> **Answer**: Country X should specialize in software (where its margin of advantage is greatest) and import textiles from Country Y (where Country Y's margin of disadvantage is least). Specialization based on opportunity cost maximizes total utility.

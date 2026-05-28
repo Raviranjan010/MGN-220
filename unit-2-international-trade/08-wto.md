@@ -1,25 +1,9 @@
 # Unit 2 — World Trade Organization (WTO)
 
-## 1. Introduction
-Detailing **World Trade Organization (WTO)** as a major building block of international trade theory and regional systems.
+## 1. Concepts
+WTO enforces rules for global trade, operates on Most Favored Nation (MFN) and National Treatment principles.
 
-## 2. Core Concepts & Analogies
-- Practical explanations and mathematical examples (e.g. opportunity costs in comparative advantage).
-- Step-by-step processes of how regional integration moves from Free Trade Areas to Political Union.
-
-## 3. Real-World Business Cases
-- **US-China Trade Relations**: Strategic application of modern tariff regimes.
-- **UK Brexit**: The costs and benefits of disintegration from a common market.
-
-## 4. Visual Diagram
-```mermaid
-graph LR
-    A[Free Trade Area] --> B[Customs Union]
-    B --> C[Common Market]
-    C --> D[Economic Union]
-    D --> E[Political Union]
-```
-
-## 5. Exam-Oriented Section
-- **Question (10 Marks)**: Critically evaluate David Ricardo's Theory of Comparative Advantage. Show opportunity cost calculations.
-- **Short Question (2 Marks)**: State the major difference between a Customs Union and a Common Market.
+## 2. Solved Scenario-Based Question
+> **Scenario**: *India bans imports of solar panels from the US to support its domestic manufacturers.*
+> **Question**: Analyze the WTO compliance of this move.
+> **Answer**: This violates the **National Treatment principle** (treating imports less favorably than domestic goods). The US can file a dispute with the WTO Dispute Settlement Body.

@@ -1,33 +1,9 @@
 # Unit 1 — Political and Legal Environment
 
-## 1. Introduction
-This chapter covers details on **Political and Legal Environment** in the context of the international business environment.
+## 1. Concepts
+Political systems (Democracy vs Totalitarianism) and legal systems (Common Law, Civil Law, Theocratic Law) define operational risks. Political risk includes expropriation, policy changes, and social unrest.
 
-## 2. Conceptual Overview
-Detailed understanding of how Political and Legal Environment affects multinational strategies and operational layouts.
-
-## 3. Core Characteristics & Dimensions
-- High volatility and rapid structural changes.
-- Complex interdependence across regulatory framework boundaries.
-
-## 4. Real-World Business Case
-- **Apple Inc.**: Global supply chain optimization leveraging cost efficiencies in different countries.
-- **Tesla**: Developing local manufacturing hubs (Gigafactories) in Berlin and Shanghai to adapt to regional parameters.
-
-## 5. Visual Representation
-```mermaid
-graph TD
-    A[Global Drivers] --> B(Political and Legal Environment)
-    B --> C[Market Opportunity]
-    B --> D[Regulatory Constraint]
-```
-
-## 6. Exam Prep & Top Questions
-- **Short Question (2 Marks)**: Explain the core definition of Political and Legal Environment.
-- **Long Question (10 Marks)**: Critically analyze how Political and Legal Environment impacts local industries.
-
-## 7. MCQs
-1. Which factor is a key driver of Political and Legal Environment?
-   - [x] Technological advancement
-   - [ ] Domestic focus
-   - [ ] Strict isolationism
+## 2. Solved Scenario-Based Question
+> **Scenario**: *An Indian energy company invests in an oil field in a country experiencing civil unrest. The new regime threatens to nationalize all foreign assets.*
+> **Question**: Identify the type of risk and recommend mitigation strategies.
+> **Answer**: This is **Political Risk (expropriation/nationalization)**. Mitigation: Purchase Political Risk Insurance (MIGA/private), build local joint ventures to gain domestic political support, and use bilateral investment treaties.
