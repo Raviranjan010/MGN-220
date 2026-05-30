@@ -1,17 +1,604 @@
-# 📘 UNIT 1 EXTENDED NOTES — COMPLETE CONTENT ADDITION
-### International Business Environment | Modes of Entry · Barriers · Trade Theories · WTO · AI Deep Dive
+# 📘 UNIT 1: INTERNATIONAL BUSINESS ENVIRONMENT
+### Master Study Notes | Core & Extended Curriculum
 
 ---
 
 ## 📌 TABLE OF CONTENTS
-1. [Types/Forms of International Business](#1-typesforms-of-international-business)
-2. [Modes of Entry into International Business](#2-modes-of-entry-into-international-business)
-3. [Barriers to International Business](#3-barriers-to-international-business)
-4. [Theories of International Trade](#4-theories-of-international-trade)
-5. [WTO and International Business](#5-wto-and-international-business)
-6. [AI in International Business — Deep Dive](#6-ai-in-international-business--deep-dive)
-7. [Domestic vs International Business — Full Comparison](#7-domestic-vs-international-business--full-comparison)
-8. [Self-Test Practice: Flashcards & Fill in the Blanks](#-unit-1--flashcards--fill-in-the-blanks)
+
+### PART 1: CORE LECTURE NOTES (BASED ON COURSE PPT)
+1. [International Business Environment: Meaning & Importance](#1-international-business-environment)
+2. [Introduction to International Business & Core Activities](#2-introduction-to-international-business)
+3. [Meaning & Importance of International Business](#3-meaning-of-international-business)
+4. [Globalization: Meaning, Drivers, and Features](#5-globalization)
+5. [Globalization and Society: Positive & Negative Impacts](#7-globalization-and-society)
+6. [Components of International Business Environment](#8-components-of-international-business-environment)
+7. [Social, Political, and Legal Environments](#9-social-environment)
+8. [Economic and Technological Environments](#12-economic-environment)
+9. [Artificial Intelligence (AI) in International Business](#14-artificial-intelligence-ai-in-international-business)
+10. [Case Study: McDonald's in India](#18-case-study-mcdonalds-in-india)
+
+### PART 2: EXTENDED LECTURE NOTES (ADVANCED TOPICS)
+11. [Types/Forms of International Business](#1-typesforms-of-international-business)
+12. [Modes of Entry into International Business](#2-modes-of-entry-into-international-business)
+13. [Barriers to International Business](#3-barriers-to-international-business)
+14. [Theories of International Trade](#4-theories-of-international-trade)
+15. [WTO and International Business](#5-wto-and-international-business)
+16. [AI in International Business — Deep Dive](#6-ai-in-international-business--deep-dive)
+17. [Domestic vs International Business — Full Comparison](#7-domestic-vs-international-business--full-comparison)
+
+### PART 3: SELF-TEST PRACTICE
+18. [Flashcards & Fill in the Blanks Practice](#-unit-1--flashcards--fill-in-the-blanks)
+
+---
+
+## PART 1: CORE LECTURE NOTES (BASED ON COURSE PPT)
+
+### 1. International Business Environment
+
+#### Meaning
+The International Business Environment refers to all external factors that influence businesses operating across national boundaries.
+
+These factors include:
+* Economic conditions
+* Political systems
+* Legal regulations
+* Cultural values
+* Technological developments
+* Global market trends
+
+Businesses entering foreign markets must study these factors carefully because they affect:
+* Business strategies
+* Investment decisions
+* Marketing plans
+* Profitability
+* Long-term success
+
+#### Importance of International Business Environment
+Understanding the international business environment helps organizations:
+
+##### 1. Identify Opportunities
+* New markets
+* New customers
+* New resources
+
+##### 2. Understand Challenges
+* Competition
+* Government restrictions
+* Cultural differences
+
+##### 3. Reduce Business Risks
+* Political instability
+* Economic fluctuations
+* Legal complications
+
+##### 4. Develop Effective Strategies
+* Product adaptation
+* Pricing decisions
+* Marketing localization
+
+##### 5. Achieve Long-Term Success
+* Better decision-making
+* Sustainable growth
+
+#### Example
+A company planning to expand into another country must study:
+* Political stability
+* Economic conditions
+* Cultural preferences
+* Legal regulations
+before starting operations.
+
+---
+
+### 2. Introduction to International Business
+
+#### Meaning
+International Business refers to all commercial activities conducted between individuals, firms, or governments of different countries.
+
+It involves:
+* Exchange of goods
+* Exchange of services
+* Technology transfer
+* Capital movement
+* Information sharing
+
+#### Activities Included in International Business
+
+##### Exporting
+Selling goods to foreign countries.
+
+##### Importing
+Buying goods from foreign countries.
+
+##### Foreign Direct Investment (FDI)
+Investing directly in foreign businesses.
+
+##### International Production
+Producing goods in different countries.
+
+##### Strategic Alliances
+Partnerships between international firms.
+
+##### Licensing
+Granting rights to use technology or brand names.
+
+##### Joint Ventures
+Two companies forming a new business together.
+
+#### Examples
+* Apple manufactures products globally and sells worldwide.
+* Toyota operates manufacturing units in different countries.
+* Samsung serves customers in multiple international markets.
+
+---
+
+### 3. Meaning of International Business
+International Business is the exchange of:
+* Goods
+* Services
+* Technology
+* Capital
+* Information
+between countries.
+
+It includes:
+* Exporting
+* Importing
+* Foreign investments
+* Licensing
+* Franchising
+* Joint ventures
+
+#### Example
+* Indian textile companies exporting products to the USA.
+* A multinational company establishing a factory in another country.
+
+---
+
+### 4. Importance of International Business
+
+##### 1. Market Expansion
+Businesses can sell products globally.
+* **Benefit:** Increased customer base, Higher revenue
+
+##### 2. Access to Resources
+Companies can obtain:
+* Raw materials
+* Technology
+* Skilled labor
+from different countries.
+
+##### 3. Competitive Advantage
+International exposure helps firms:
+* Improve quality
+* Reduce costs
+* Innovate products
+
+##### 4. Economic Growth
+International trade:
+* Increases national income
+* Enhances GDP
+* Strengthens economies
+
+##### 5. Employment Generation
+Global business creates:
+* Direct jobs
+* Indirect jobs
+
+##### 6. Technology Transfer
+Countries gain access to:
+* Advanced technologies
+* Modern management practices
+
+##### 7. Improved Standard of Living
+Consumers get:
+* Better products
+* More choices
+* Affordable prices
+
+---
+
+### 5. Globalization
+
+#### Meaning
+Globalization is the process of increasing integration and interaction among countries through:
+* Trade
+* Technology
+* Information
+* Investment
+* Culture
+It enables businesses and individuals to operate globally.
+
+#### Drivers of Globalization
+##### 1. Technological Advancement
+* Internet
+* AI
+* Mobile communication
+
+##### 2. Improved Transportation
+* Faster shipping
+* Global logistics
+
+##### 3. Trade Liberalization
+* Reduced trade barriers
+
+##### 4. Foreign Investment
+* Cross-border investments
+
+#### Example
+McDonald's operates restaurants worldwide while adapting products to local cultures.
+
+---
+
+### 6. Features of Globalization
+
+##### 1. Integration of Global Markets
+Markets of different countries become interconnected.
+* **Example:** A smartphone manufactured in China is sold globally.
+
+##### 2. Free Flow of Goods and Services
+Products move easily across borders.
+* **Example:** International trade of automobiles and electronics.
+
+##### 3. International Movement of Capital
+Investments move globally.
+* **Example:** Companies establishing factories abroad.
+
+##### 4. Technological Advancement
+Technology supports international operations.
+* **Example:** Cloud computing and digital platforms.
+
+##### 5. Growth of MNCs
+Multinational corporations operate globally.
+* **Examples:** Apple, Samsung, Toyota
+
+##### 6. Cultural Exchange
+Ideas, traditions, and lifestyles spread internationally.
+* **Example:** Global food chains introducing international cuisines.
+
+---
+
+### 7. Globalization and Society
+
+#### Positive Effects
+##### Economic Growth
+* More investments
+* More employment
+
+##### Better Technology Access
+* Modern tools
+* Faster communication
+
+##### Cultural Exchange
+* Learning about other cultures
+
+##### Education Opportunities
+* Global learning resources
+
+#### Negative Effects
+##### Cultural Homogenization
+Local cultures may weaken.
+
+##### Economic Inequality
+Benefits may not be distributed equally.
+
+##### Environmental Problems
+Industrial growth can increase pollution.
+
+##### Increased Competition
+Local firms face global competitors.
+
+#### Example
+Social media platforms influence lifestyles worldwide.
+
+---
+
+### 8. Components of International Business Environment
+The International Business Environment consists of:
+1. Social Environment
+2. Political Environment
+3. Legal Environment
+4. Economic Environment
+5. Technological Environment
+
+---
+
+### 9. Social Environment
+
+#### Meaning
+The Social Environment includes:
+* Culture
+* Traditions
+* Beliefs
+* Values
+* Education
+* Lifestyle
+* Demographics
+These factors influence consumer behavior.
+
+#### Importance
+Businesses must understand:
+* Local customs
+* Religious beliefs
+* Consumer preferences
+before entering foreign markets.
+
+#### Example
+McDonald's modifies its menu according to local food habits.
+
+#### Factors of Social Environment
+* Cultural Values
+* Language
+* Religion
+* Lifestyle
+* Education
+* Population Characteristics
+
+---
+
+### 10. Political Environment
+
+#### Meaning
+Political Environment refers to government influence on business operations.
+
+It includes:
+* Political stability
+* Government policies
+* Trade regulations
+* Taxation policies
+* Investment rules
+
+#### Importance
+A stable political system encourages:
+* Investment
+* Trade
+* Business expansion
+
+#### Example
+Governments provide:
+* Tax benefits
+* Subsidies
+* Special Economic Zones (SEZs)
+to attract foreign investors.
+
+---
+
+### 11. Legal Environment
+
+#### Meaning
+The Legal Environment includes all laws and regulations governing business activities.
+
+#### Important Areas
+* International Trade Laws
+* Labor Laws
+* Consumer Protection Laws
+* Environmental Laws
+* Intellectual Property Rights (IPR)
+
+#### Importance
+Legal compliance helps businesses:
+* Avoid penalties
+* Build trust
+* Operate smoothly
+
+#### Example
+Companies register patents and trademarks internationally.
+
+---
+
+### 12. Economic Environment
+
+#### Meaning
+Economic Environment consists of economic conditions affecting business operations.
+
+#### Major Factors
+* Economic Growth
+* Inflation Rate
+* Exchange Rate
+* Income Level
+* Unemployment Rate
+* Consumer Purchasing Power
+
+#### Importance
+Economic conditions determine:
+* Product demand
+* Business profitability
+* Investment decisions
+
+#### Example
+Companies prefer rapidly growing economies such as:
+* India
+* China
+because of large markets.
+
+---
+
+### 13. Technological Environment
+
+#### Meaning
+Technological Environment refers to innovations and technological developments affecting businesses.
+
+#### Importance
+Technology helps organizations:
+* Improve efficiency
+* Reduce costs
+* Expand globally
+* Enhance customer experience
+
+#### Major Technologies
+* Artificial Intelligence (AI)
+* Cloud Computing
+* Automation
+* Internet
+* E-Commerce Platforms
+
+#### Example
+Businesses use online platforms for global sales.
+
+---
+
+### 14. Artificial Intelligence (AI) in International Business
+
+#### Meaning
+Artificial Intelligence (AI) refers to machines and systems capable of performing tasks requiring human intelligence.
+
+These tasks include:
+* Learning
+* Problem solving
+* Decision making
+* Data analysis
+
+#### Role of AI in International Business
+AI helps companies:
+* Analyze global markets
+* Predict trends
+* Improve productivity
+* Enhance customer satisfaction
+
+#### Applications of AI
+* Market Analysis
+* Supply Chain Management
+* Fraud Detection
+* Customer Support
+* Personalized Marketing
+
+#### Example
+Amazon uses AI for recommendations and logistics management.
+
+---
+
+### 15. AI for Increased Efficiency
+
+#### Benefits
+##### Automation
+Reduces repetitive work.
+
+##### Faster Data Processing
+Analyzes huge datasets quickly.
+
+##### Better Decision Making
+Provides accurate insights.
+
+##### Improved Supply Chain Management
+Optimizes logistics operations.
+
+##### Demand Forecasting
+Predicts future demand.
+
+#### Example
+Amazon uses AI to optimize warehouse management and delivery routes.
+
+---
+
+### 16. AI for Cost Savings
+
+#### How AI Saves Costs
+##### Automation of Routine Tasks
+Reduces labor costs.
+
+##### Inventory Optimization
+Prevents overstocking and shortages.
+
+##### Supply Chain Optimization
+Reduces transportation costs.
+
+##### Improved Resource Allocation
+Better utilization of resources.
+
+#### Example
+Amazon's automated warehouses significantly reduce operational expenses.
+
+---
+
+### 17. AI for Improved Customer Experience
+
+#### Benefits
+##### Personalized Recommendations
+Products suggested based on preferences.
+
+##### 24/7 Customer Support
+AI chatbots assist customers.
+
+##### Faster Service
+Quick responses to customer queries.
+
+##### Customer Behavior Analysis
+Improves marketing effectiveness.
+
+#### Result
+* Higher customer satisfaction
+* Increased customer loyalty
+* Better sales performance
+
+---
+
+### 18. Case Study: McDonald's in India
+
+#### Problem
+When McDonald's entered India, it faced cultural and religious challenges.
+Many Indians do not consume beef because of religious beliefs.
+
+#### Actions Taken
+##### Menu Modification
+Introduced:
+* McAloo Tikki Burger
+* Vegetarian options
+Removed:
+* Beef products
+
+##### Pricing Adaptation
+Adjusted prices according to Indian purchasing power.
+
+##### Technology Adoption
+Used data analytics and technology to understand customer preferences.
+
+#### Outcome
+McDonald's successfully established itself as a leading fast-food chain in India.
+
+#### Key Learning from Case Study
+1. Understand local culture.
+2. Adapt products to local needs.
+3. Consider economic conditions.
+4. Use technology for decision-making.
+5. Study the international business environment before expansion.
+
+#### Important Exam Questions
+##### Short Questions (2–5 Marks)
+1. Define International Business Environment.
+2. What is International Business?
+3. Define Globalization.
+4. State any four features of globalization.
+5. What is the Social Environment?
+6. Explain Political Environment.
+7. What is the Legal Environment?
+8. Define Economic Environment.
+9. What is Technological Environment?
+10. Define Artificial Intelligence.
+
+##### Long Questions (8–15 Marks)
+1. Explain the International Business Environment with examples.
+2. Discuss the importance of International Business.
+3. Explain the features of Globalization.
+4. Discuss the components of the International Business Environment.
+5. Explain the role of AI in International Business.
+6. Describe how AI improves efficiency and reduces costs.
+7. Explain the impact of globalization on society.
+8. Discuss the McDonald's India case study in detail.
+
+#### Quick Revision Keywords
+* **International Business Environment →** External factors affecting global business
+* **International Business →** Cross-border commercial activities
+* **Globalization →** Worldwide integration of economies
+* **Social Environment →** Culture, beliefs, lifestyle
+* **Political Environment →** Government policies and stability
+* **Legal Environment →** Laws and regulations
+* **Economic Environment →** Income, inflation, exchange rates
+* **Technological Environment →** Innovation and technology
+* **Artificial Intelligence →** Smart systems for automation and decision-making
+
+---
+
+## PART 2: EXTENDED LECTURE NOTES (ADVANCED TOPICS)
 
 ---
 
